@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    font-family: 'Fraktur';
+    font-size: 30px;
+    background: rgb(149, 162, 193);
+    color: rgb(9, 53, 4);
+    background-image: url("probe.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+  font-size: 15px;
+  color: azure;
+}
+
+#image1 {
+    width: 235px;
+    border-radius: 20px
+}
+
+#image2 {
+  height: 193px;
+  width: 235px;
+  border-radius: 20px
+}
+
+#image3 {
+  height: 193px;
+  width: 235px;
+  border-radius: 20px
+}
+
+#image4 {
+  height: 193px;
+  width: 235px;
+  border-radius: 20px
+}
+
+#image5 {
+  height: 193px;
+  width: 235px;
+  border-radius: 20px
+}
+
+.box {
+    font-size: 20px;
+    width: 250px;
+    height: 400px;
+    border: 1px solid #fb9600;
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(255, 255, 255);
+    color:black;
+    border-radius: 20px;
+  }
+
+
+
+  div {
+    width: 10%;
+    display: inline-block;
+  }
